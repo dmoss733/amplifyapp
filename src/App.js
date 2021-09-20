@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
       
-          Congration you done it.
+          Congration you done it. Let's just see if it hooks.
         <AmplifySignOut></AmplifySignOut>
       </header>
     </div>
